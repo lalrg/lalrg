@@ -1,7 +1,7 @@
 <h1 align="center">👋 I'm Luis Richmond</h1>
 <h3 align="center">A Full Stack developer from Costa Rica</h3>
 
-- 🌱 I’m currently working with **Python, .net Core, and React**
+- 🌱 I’m currently working with **.net Core, and React**
 
 - 💬 Ask me about **React, Vue, .net Core, Javascript, TypeScript, Python**
 
